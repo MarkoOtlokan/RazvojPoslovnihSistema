@@ -1,0 +1,8 @@
+package me.otlokan.web.repository;
+
+import me.otlokan.web.domain.Article;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ArticleRepository extends JpaRepository<Article, Long> {
+
+}
