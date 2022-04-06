@@ -95,7 +95,7 @@ button[type="submit"]:hover {
 }
 
 input {
-  width: 60%;
+  width: 15%;
   margin: 15px;
   border: 0;
   box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.6);
