@@ -93,7 +93,7 @@ input {
   width: 60%;
   margin: 15px;
   border: 0;
-  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.6);
   padding: 10px;
   border-radius: 30px;
 }

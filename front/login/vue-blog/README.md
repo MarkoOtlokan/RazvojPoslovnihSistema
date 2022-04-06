@@ -1,4 +1,4 @@
-# auth-project
+# rps-project
 
 ## Project setup
 ```

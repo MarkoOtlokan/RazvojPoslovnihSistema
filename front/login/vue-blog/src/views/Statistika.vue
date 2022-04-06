@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <label for="title">Najveci potrosaci:</label>
+    <label for="title">Najveći potrošači:</label>
     <div class="posts" v-if="BestCustomers">
       <ul>
         <li v-for="sale in BestCustomers" :key="sale.id">
